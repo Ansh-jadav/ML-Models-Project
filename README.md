@@ -192,6 +192,6 @@ ML-Models-Project/
 ├── classification/
 ├── clustering/
 ├── README.md
-└── requirements.txt
+
 ```
 
